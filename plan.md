@@ -50,7 +50,11 @@ Sort out the cultural heritage of the Yi nationality, with a certain actual carr
 #### Work Process
 
 1. Build **website**, record **domain name**, sample：[胡晗's Blog](http://mi_chuan.gitee.io/michuanblog/)，[CodePoetry](https://michuan.github.io/)
+
+   ![](./img/胡晗blog.jpg)
+
 2. Sort out various cultural heritages and classify them in the form of pictures, texts, audio and video
+
 3. Display the collected data on the website
 
 ### 3 Mountain-People-Language WeChat public account
@@ -62,7 +66,11 @@ Synchronize the progress of the project, and the collated data can also be publi
 #### Work Process
 
 1. Organize cultural heritage materials
-2. Learn public account typesetting knowledge
+
+2. Learn public account typesetting knowledge, create an **account**, example: "Programming Poetry" WeChat public account
+
+   ![](.\img\编程诗.png)
+
 3. Tweets are posted regularly, based on collated information
 
 ### 4 Video account
@@ -74,6 +82,7 @@ Now the short video platform has more influence. The data collected during the d
 #### Work Process
 
 1. Collect audio and video material
+1. Open a short video platform account
 2. Record and edit video
 3. Publish to short video platforms, promote, operate, obtain funds, and at the same time increase the exposure and influence of the project, and attract more talents who are interested in the protection of Yi nationality cultural heritage.
 
