@@ -11,7 +11,7 @@ Mountain-People-Language：Cultural Protection of the Yi Nationality
 ### 2 Project way
 
 - Format: Applet, Website, WeChat Public Account, Short Video
-- Contents: Organize and collect Yi language, characters, costumes, architecture, literature, songs, food, festivals, customs, paintings, handicrafts, etc.
+- Contents: Organize and collect Yi language, characters, costumes, architecture, literature, songs, food, medicine, festivals, customs, paintings, handicrafts, etc.
 
 ## II. plans
 
@@ -83,7 +83,7 @@ Now the short video platform has more influence. The data collected during the d
 
 Copyright needs to be deployed in advance, including but not limited to **registered trademarks**, patent applications, filing website **domain names**, filing with the Cultural Affairs Bureau, preparing legal litigation documents in advance, doing copyright protection consultation and follow-up legal support for copyright protection in advance
 
-#### work process
+#### Work process
 
 1. Trademark
 2. Record website domain name
