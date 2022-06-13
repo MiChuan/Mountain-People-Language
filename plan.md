@@ -69,7 +69,7 @@ Synchronize the progress of the project, and the collated data can also be publi
 
 2. Learn public account typesetting knowledge, create an **account**, example: "Programming Poetry" WeChat public account
 
-   ![](.\img\编程诗.png)
+   ![](./img/编程诗.png)
 
 3. Tweets are posted regularly, based on collated information
 
